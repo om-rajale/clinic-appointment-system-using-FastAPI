@@ -1,0 +1,9 @@
+fastapi
+pydantic[email]
+pydantic-settings
+supabase
+apscheduler
+python-jose[cryptography]
+bcrypt
+uvicorn[standard]
+watchfiles
