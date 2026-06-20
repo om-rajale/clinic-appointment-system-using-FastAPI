@@ -5,7 +5,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://clinic-appointment-system-using-fastapi.onrender.com/"
 
 # ─────────────────────────────────────────
 # PAGE CONFIG
