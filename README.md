@@ -1,5 +1,17 @@
 # 🏥 Clinic Appointment Management System
+# Clinic Appointment System
 
+🚀 Live Demo: [https://your-streamlit-app.streamlit.app](https://frontend-ns5ycde7wrrmptxwwr2kdg.streamlit.app/)
+
+🔗 Backend API Docs: [https://your-render-app.onrender.com/docs](https://clinic-appointment-system-using-fastapi.onrender.com/docs)
+
+## Features
+- User Authentication
+- Doctor Management
+- Appointment Booking
+- Medical Records
+
+- 
 A clean **FastAPI + Supabase** REST API for managing clinic appointments, doctor schedules, patient records, and automated reminders — secured with JWT authentication.
 
 ---
